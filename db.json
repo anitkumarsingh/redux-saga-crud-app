@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "users":[
+    {
+      "id":1,
+      "name":"John",
+      "email":"john123@gmaiul.com",
+      "phone":1234567654,
+      "address":"USA"
+    }
+  ]
+}
